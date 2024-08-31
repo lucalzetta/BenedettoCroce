@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+ <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:56919d9e-8b0d-407f-96fe-0064ee9fdio8" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Titolo</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Copertina</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Informazioni</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Liber Liber</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Indice</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>AVVERTENZA</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>I. «Che cosa è l'arte»</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>II. Pregiudizî Intorno all'arte</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>III. Il posto dell'arte nello spirito e nella società umana</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>IV. La critica e la storia  dell'arte</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Inizio, periodi e carattere della storia dell'Estetica</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+      <!--Titolo di secondo livello-->    
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#S_1"/>
+        </navPoint>
+        <!--Titolo di secondo livello-->    
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#S_2"/>
+        </navPoint>
+        <!--Titolo di secondo livello-->    
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#S_3"/>
+        </navPoint>
+    </navPoint>
+    
+    <!--Titolo di primo livello-->    
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Il carattere di totalità dell'espressione artistica</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Appendice - Le due scienze mondane: l'Estetica e l'Economica:</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>I. Spirito e senso</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>II. Spirito e natura</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>NOTE</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+    
+  </navMap>
+</ncx>

@@ -1,0 +1,152 @@
+Revisione del testo di Benedetto Croce ineamenti di una logica come scienza del concetto puro
+
+a cura di Alzetta Luca lucalzetta@gmail.com 12/05/2024
+
+*Nota: Purtroppo a correzione avanzata mi sono reso conto che l'impaginazione del testo 
+con libre office non garantisce coerenza con la numerazione delle pagine e delle righe del 
+testo con risoluzioni differenti del monitor di una stessa macchina e tantomeno con l'uso 
+di macchine diverse e monitor diversi. Perciò queste note non hanno un valore assoluto come 
+riferimenti posizionali dell'errore rilevato che, comunque, è stato corretto.
+L'individuazione della posizione esatta dell'errore perciò è vanificata.
+
+Aggiornato il colophon con:
+Corretto ILineamenti con Lineamenti nel campo TRATTO DA:
+Corretto Lica Alzetta con Luca Alzetta nel campo REVISIONE:
+Corretto lucalzetta@gnail.com con lucalzetta@gmail.com nel campo REVISIONE:
+
+
+PRIMA PAGINA
+
+Pag 7, riga 5 rimosso 'SBUF'
+
+INDICE
+
+Pag 9, riga 26 (ultima) corretto 'concerto' con 'concetto'
+Pag 11, riga 11 problema di formattazione del testo in maiuscoletto.
+Pag 12, riga 16 corretto 'LA RICERCA DELLE CATEGORIE E LA CLASSIFICAZIONE DELLE SCIENZE' con 'LA TEORIA DELL'ERRORE'
+Pag 13, riga 8 corretto 'Nella filosofia moderna Kant' con 'Nella filosofia moderna ‒ Kant'
+
+PRELIMINARI
+
+Inserito segni di interpunzione mancanti ai titoli di paragrafo
+Pag 16, riga 23 corretto un punto con una virgola
+Pag 18, riga 8 corretto una virgola con un punto (finale di paragrafo) 
+Pag 20, riga 11 corretto 'domimi' con 'dominii'
+Pag 20, riga 18 corretto 'filiosofia' con 'filosofia'
+Pag 21, riga 10 corretto 'nome' con 'come' (titolo di paragrafo)
+Pag 23, riga 24 corretto 'dallo spirito umano' con 'dello spirito umano'
+Pag 30, riga 4 corretto 'iniversale' con 'universale' (titolo di paragrafo)
+Pag 33, riga 6 corretto 'lo' con 'le'
+Pag 35, riga 9 corretto 'In' con 'la'
+Pag 39, riga 3 corretto 'lealtà' con 'realtà'
+Pag 45, riga 23 corretto un punto con una virgola
+Pag 47, riga 1 corretto un punto con una virgola
+Pag 47, riga 20 corretto 'ì' con 'i'
+Pag 52, riga 17 corretto una virgola con un punto
+Pag 59, riga 25 corretto un punto con una virgola
+Pag 60, nota 5, riga 1 corretto 'dello' con 'della
+Pag 60, nota 5, riga 2 rimosso 'e' doppia
+Pag 60, riga 13 corretto un punto con una virgola
+
+IMPOSSIBILITÀ DI UNA LOGICA FORMALISTICA
+
+Pag 62, riga 5 corretto 'lo' con 'la'
+Pag 63, nota 6, riga 1 corretto 'Vwedi' con 'Vedi'
+Pag 65, riga 1 corretto un punto con una virgola
+Pag 68, riga 8 corretto 'denominala' con 'denominata'
+Pag 72, riga 26 corretto una virgola con un punto
+Pag 73, riga 16 chiuso parentesi.
+Pag 77, riga 28(ultma riga) aggiunto apostrofo.
+
+IL CONCETTO E LA RAPPRESENTAZIONE STORICA
+
+Pag 84, riga 20 corretto un punto con una virgola
+Pag 86, riga 11 corretto 'sua' con 'sia'
+Pag 86, riga 15 corretto un punto con una virgola
+Pag 89, nota 8, riga 4 corretto 'dello parola' con 'della parola'
+Pag 94, riga 6 corretto 'come e nata?' con 'come è nata?'
+Pag 97, riga 15 corretto 'rii' con 'di'
+Pag 105, riga 29 corretto 'alcun' con 'alcuni'
+Pag 113, riga 2 corretto un punto con una virgola
+
+IL CONCETTO E LE DISCIPLINE NATURALI E MATEMATICHE
+
+Pag 116, riga 8 corretto 'studij' con 'studii'
+Pag 116, riga 20 corretto 'sebbene del fatto razionali' con 'sebbene del tutto razionali'
+Pag 117, riga 19 corretto 'dello' con 'delle'
+Pag 121, riga 6 corretto 'questa' con 'questi'
+Pag 127, riga 17 aggiunto parentesi aperta.
+Pag 129, riga 11 aggiunto parentesi chiusa.
+Pag 130, riga 4 aggiunto parentesi chiusa.
+Pag 135, riga 23 corretto un punto con una virgola
+Pag 139, riga 19 corretto un punto con una virgola
+Pag 139, riga 23 corretto un punto con una virgola
+Pag 140, riga 3 corretto 'impossibilita' con 'impossibilità'
+Pag 149, riga 11 corretto un punto con una virgola
+Pag 150, riga 5 corretto 'ἕκασιον' con 'ἕκαστον'
+
+LA RICERCA DELLE CATEGORIE E LA CLASSIFICAZIONE DELLE SCIENZE
+
+Pag 156, riga 2 aggiunto una virgola 'ποῦ, ποτέ'
+Pag 158, riga 14 corretto una virgola con un punto
+Pag 158, riga 15 corretto 'principi i' con 'principii'
+Pag 159, riga 23 corretto 'presentì' con 'presenti'
+Pag 160, riga 7 corretto un punto con una virgola
+Pag 163, riga 20 corretto 'preterisca' con 'preferisca'
+Pag 163, riga 24 corretto 'e' con 'è'
+Pag 164, riga 7 corretto un punto con una virgola
+Pag 164, riga 12 corretto 'L'' con 'l''
+Pag 168, riga 5 corretto un punto con una virgola
+Pag 168, nota 24 corretto alcuni segni di interpunzione e '1902' con '1903'
+Pag 171, riga 4 corretto 'elle' con 'che'
+Pag 171, riga 18 corretto un punto con una virgola
+Pag 172, riga 5 corretto 'stndii' con 'studii'
+Pag 172, riga 7 corretto un punto con una virgola
+Pag 172, riga 14 corretto un punto con una virgola
+Pag 173, riga 4 rimosso un punto
+
+LA TEORIA DELL'ERRORE
+
+Pag 175, riga 14 corretto la cifra '1' posta a pedice di parola con una virgola
+Pag 175, nota 25 riga 2 chiuso parentesi rimasta aperta
+Pag 177, riga 11 corretto un punto con una virgola
+Pag 177, riga 19 corretto un punto con una virgola
+Pag 180, riga 26 corretto 'trovi' con 'giovi'
+Pag 181, riga 25 corretto 'ad' con 'ed'
+Pag 192, riga 14 corretto un punto con una virgola
+Pag 196, riga 13 corretto 'esteticismo' con 'l'esteticismo'
+Pag 197, riga 3 corretto 'filiosofia' con 'filosofia'
+
+PRINCIPII DIRETTIVI DELLA STORIA DELLA LOGICA
+
+Pag 198, riga 24 corretto 'storia dalla logica' con 'storia della logica'
+Pag 199, riga 29 corretto 'Aristotele' con 'Aristotile' (titolo di paragrafo)
+Pag 202, riga 21 corretto 'formula' con 'formola'
+Pag 203, riga 20 corretto corretto un punto con una virgola
+Pag 204, riga 4 corretto un punto con una virgola
+Pag 204, riga 11 corretto corretto una virgola con un punto
+Pag 205, riga 4 corretto 'do' con 'di'
+Pag 205, riga 6 corretto 'riconosciuto' con 'riconosciute'
+Pag 210, riga 4 corretto 'avversaroi' con 'avversarii'
+Pag 213, riga 20 corretto 'AI' con 'Al'
+Pag 215, riga 14 corretto un punto con una virgola
+Pag 215, riga 23 corretto un punto con una virgola
+Pag 217, riga 5 corretto 'Iato' con 'lato'
+Pag 221, riga 7 corretto 'o' con 'O' (maiuscolo)
+Pag 222, riga 10 corretto 'secondarli' con 'secondarii'
+Pag 224, riga 5 corretto un punto con una virgola
+Pag 225, nota 29 riga 2 corretto 'complate' con 'completa'
+Pag 226, riga 22 corretto 'ἐπιστημονικν' con 'ἐπιστημονικόν'
+Pag 228, riga 3 corretto un punto con una virgola
+Pag 229, riga 13 corretto 'ascendo' con 'uscendo'
+Pag 229, riga 21 corretto 'somniaus' con 'somnians'
+Pag 231, riga 14 corretto 'dall'Hegel a dalla sua scuola' con 'dall'Hegel e dalla sua scuola'
+Pag 232, riga 6 corretto un punto con una virgola
+Pag 237, riga 26 corretto 'tradizionale' con 'tradizionali,' (aggiunto virgola e passato l'aggettivo al plurale)
+Pag 240, riga 10 corretto 'egli' con 'e gli'
+Pag 242, riga 1 corretto 'trattatisti dal rinascimento' con 'trattatisti del rinascimento' (titolo di paragrafo)
+Pag 243, riga 10 corretto 'un'altro' con 'un'altra'
+Pag 245, riga 27 corretto 'L'Humboldt' con 'l'Humboldt'
+Pag 248, riga 17 corretto un punto con una virgola
+Pag 251, nota 35, riga 11 corretto 'avversarli' con 'avversarii'
+Concluso revisione 31/05/2024

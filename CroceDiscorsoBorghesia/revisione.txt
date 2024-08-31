@@ -1,0 +1,45 @@
+*** titolo: croce_discorso_sul_dovere_della _borghesia ***
+
+=> impaginazione: Luca Alzetta
+=> revisione: Ugo Santamaria
+
+=================
+
+19.1.2024
+
+Inizio dalle le tue note:
+
+Riscontrato l'uso dell'apostrofo nella parola 'un altro', terzultima riga della quinta pagina della scansione dell'originale. => vista l'età dello scritto di solito non lo consideriamo un errore da correggere, ma visto che in una precedente occorrenza è scritto corretto lo possiamo considerare un refuso, quindi ok la correzione.
+
+=> content.opf:
+1) alla voce creator opf:file-as="Cognome, Nome" dovresti scrivere il Cognome, Nome
+
+2) nella sezione Guide dovresti referenziare anche la Sec_01 come copertina (cover) e la Sec_05 come testo (txt)
+
+3) alla voce "identifier" hai inserito un ISBN non valido, se non c'é meglio lasciare vuoto o scrivere n.d. ( per "non disposnibile")
+
+4) alla voce subjet si mette anche i numero relativo alla voce utilizzata.
+
+Section0002.xhtml"
+
+rigo24: l'autore va indicato come Cognome, Nome
+
+rigo34: toglierei i tag <small> e <BR/>
+
+rigo36: vedi punto 3 content.opf
+
+rigo40: nel Colophon non cancelliamo le cose anche se sembrano inutili, quindi si lasciano tutti e 4 i gradi di affidablità.
+
+r42: nel soggetto si mette anche i numero relativo alla voce utilizzata.
+
+r44,46,48: vanno compilati inserendo i nome dei volontari che hanno partecipato. A proposito: il testo è stato revisionato da qualcuno di Manuzio?
+Nel r48 IMPAGINAZIONE: cortesemente inserisci anche il mio nome: Ugo Santamaria (revisione ePub)
+
+odt: allinea il Colophon a quello dell'epub.
+
+pdf: non occorre che lo generi, verrà fatto in pubblicazione quando verrà inserita la copertina e la data di pubblicazione.
+
+
+********************************
+ 
+
