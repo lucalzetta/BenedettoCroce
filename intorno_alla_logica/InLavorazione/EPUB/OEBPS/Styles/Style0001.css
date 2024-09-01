@@ -78,7 +78,8 @@ font-weight : bold;
 font-size : xx-large;
 font-weight : bold;
 }
-.testo_ind {
+.testo_ind
+ {
 font-style : italic;
 margin : 0 0 0 1em;
 text-indent : -1em;
