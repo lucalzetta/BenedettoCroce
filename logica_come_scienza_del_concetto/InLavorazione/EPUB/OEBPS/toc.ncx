@@ -31,15 +31,15 @@
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
-        <text>Indice</text>
+        <text>Indice (questa pagina)</text>
       </navLabel>
       <content src="Text/Section0004.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>INDICE</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0006.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
