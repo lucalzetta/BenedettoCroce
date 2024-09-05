@@ -25,7 +25,8 @@
     <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>        
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
   </manifest>
@@ -35,7 +36,8 @@
     <itemref idref="Section0003.xhtml"/>
     <itemref idref="Section0004.xhtml"/>
     <itemref idref="Section0005.xhtml"/>
-    <itemref idref="Section0006.xhtml"/>    
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>        
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/Section0001.xhtml"/>

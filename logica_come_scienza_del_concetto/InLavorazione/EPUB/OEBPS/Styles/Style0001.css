@@ -156,37 +156,37 @@ Modifiche per il frontespizio di lineamenti di Logica di
 Benedetto Croce a cura di Alzetta Luca 05/09/2024
 **********************************************************/
 
-p#f_1 {
+p.testo_centrato_f1 {
 text-align : center;
 font-size : x-large;
 font-style : bold;
 }
 
-p#f_3 {
+p.testo_centrato_f3 {
 text-align : center;
 font-size : medium;
 font-style : normal;
 }
 
-p#f_4 {
+p.testo_centrato_f4 {
 text-align : center;
 font-size : small;
 font-style : normal;
 }
 
-p#f_6 {
+p.testo_centrato_f6 {
 text-align : center;
 font-size : x-small;
 font-style : normal;
 }
 
-p#f_8 {
+p.testo_centrato_f8 {
 text-align : center;
 font-size : xx-small;
 font-style : normal;
 }
 
-p#f_10 {
+p.testo_centrato_f10 {
 text-align : center;
 font-size : xx-small;
 font-weight : 300;
