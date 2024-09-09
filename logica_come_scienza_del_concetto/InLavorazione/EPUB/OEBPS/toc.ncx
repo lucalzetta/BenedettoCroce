@@ -41,5 +41,36 @@
       </navLabel>
       <content src="Text/Section0007.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>I. PRELIMINARI</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+            <navPoint id="navPoint-7" playOrder="7">
+              <navLabel>
+                <text>Logica psicologica e logica speculativa.</text>
+              </navLabel>
+              <content src="Text/Section0008.xhtml#s_1_1_0"/>
+            </navPoint>
+            <navPoint id="navPoint-8" playOrder="8">
+              <navLabel>
+                <text>Logica formale e logica formalistica.</text>
+              </navLabel>
+              <content src="Text/Section0008.xhtml#s_1_2_0"/>
+            </navPoint>
+                        <navPoint id="navPoint-9" playOrder="9">
+              <navLabel>
+                <text>Logica formale e logica materiale.</text>
+              </navLabel>
+              <content src="Text/Section0008.xhtml#s_1_3_0"/>
+            </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>NOTE</text>
+      </navLabel>
+      <content src="Text/Section0016.xhtml"/>
+    </navPoint>
+
   </navMap>
 </ncx>

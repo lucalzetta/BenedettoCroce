@@ -50,9 +50,13 @@ visibility:hidden;
 .testo_corsivo {
 font-style: italic;
 }
+/*classe modificata per il testo di Benedetto Croce "Logica come scienza del concetto"*/
 .testo_destra {
 text-align : right;
+font-weight : bold;
+font-size : 80%;
 }
+/*************************************************************************************/
 p.testo_dialogo {
 margin : 0 0 0 1em;
 text-indent : -1em;
@@ -191,6 +195,14 @@ p.testo_centrato_f10 {
 text-align : center;
 font-size : xx-small;
 font-weight : 300;
+}
+
+a#nota_1_ritorno {
+font-size : x-small;
+}
+
+em {
+text-decoration : underline;
 }
 
 /* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */

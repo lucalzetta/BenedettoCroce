@@ -12,7 +12,6 @@
     <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
     <dc:date opf:event="1a edizione elettronica">2014-12-15</dc:date>
     <dc:date opf:event="modification">2022-08-17</dc:date>
-    <meta content="1.9.10" name="Sigil version"/>
     <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <meta name="cover" content="copertina.jpg"/>
   </metadata>
@@ -26,9 +25,16 @@
     <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0006.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0006.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>        
-    <item id="Section0009.xhtml" href="Text/Section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0016.xhtml" href="Text/Section0016.xhtml" media-type="application/xhtml+xml"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
   </manifest>
@@ -40,8 +46,15 @@
     <itemref idref="Section0005.xhtml"/>
     <itemref idref="Section0006.xhtml"/>
     <itemref idref="Section0007.xhtml"/>
-    <itemref idref="Section0008.xhtml"/>        
-    <itemref idref="Section0020.xhtml"/>        
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>        
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/Section0001.xhtml"/>
