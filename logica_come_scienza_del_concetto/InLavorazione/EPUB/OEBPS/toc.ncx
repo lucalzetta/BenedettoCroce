@@ -109,13 +109,79 @@
       <content src="Text/Section0009.xhtml"/>
             <navPoint id="navPoint-17" playOrder="17">
               <navLabel>
-                <text>Logica e linguaggio: linguaggio e grammatica.</text>
+                <text>La ricerca dell'iniversale.</text>
               </navLabel>
               <content src="Text/Section0009.xhtml#s_1_10_0"/>
             </navPoint>
+            <navPoint id="navPoint-18" playOrder="18">
+              <navLabel>
+                <text>La vita della scienza come realtà logica.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_11_0"/>
+            </navPoint>
+            <navPoint id="navPoint-19" playOrder="19">
+              <navLabel>
+                <text>Il concetto.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_12_0"/>
+            </navPoint>
+            <navPoint id="navPoint-20" playOrder="20">
+              <navLabel>
+                <text>Critica delle negazioni del concetto.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_13_0"/>
+            </navPoint>
+            <navPoint id="navPoint-21" playOrder="21">
+              <navLabel>
+                <text>Critica di false teorie intorno al concetto.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_14_0"/>
+            </navPoint>
+            <navPoint id="navPoint-22" playOrder="22">
+              <navLabel>
+                <text>Nominalismo e realismo.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_15_0"/>
+            </navPoint>
+            <navPoint id="navPoint-23" playOrder="23">
+              <navLabel>
+                <text>Il concetto come unica forma logica.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_16_0"/>
+            </navPoint>
+            <navPoint id="navPoint-24" playOrder="24">
+              <navLabel>
+                <text>Concetto e giudizio.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_17_0"/>
+            </navPoint>
+            <navPoint id="navPoint-25" playOrder="25">
+              <navLabel>
+                <text>Il giudizio e la proposizione estetica.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_18_0"/>
+            </navPoint>
+            <navPoint id="navPoint-26" playOrder="26">
+              <navLabel>
+                <text>Il giudizio individuale.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_19_0"/>
+            </navPoint>
+            <navPoint id="navPoint-27" playOrder="27">
+              <navLabel>
+                <text>Il giudizio logico o definizione. Sua identità col concetto.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_20_0"/>
+            </navPoint>
+            <navPoint id="navPoint-28" playOrder="28">
+              <navLabel>
+                <text>Concetto e linguaggio.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_1_21_0"/>
+            </navPoint>
 
     </navPoint>
-            
+    
     <navPoint id="navPoint-90" playOrder="90">
       <navLabel>
         <text>NOTE</text>
