@@ -317,6 +317,12 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_10_0"/>
             </navPoint>
+            <navPoint id="navPoint-52" playOrder="52">
+              <navLabel>
+                <text>La logica formalistica e la logica matematica.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_11_0"/>
+            </navPoint>
 
     </navPoint>
     
