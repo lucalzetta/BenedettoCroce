@@ -221,7 +221,49 @@
               </navLabel>
               <content src="Text/Section0009.xhtml#s_2_19_0"/>
             </navPoint>
-
+            <navPoint id="navPoint-36" playOrder="36">
+              <navLabel>
+                <text>Il principio di contradizione.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_20_0"/>
+            </navPoint>
+            <navPoint id="navPoint-37" playOrder="37">
+              <navLabel>
+                <text>Il principio di ragione.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_21_0"/>
+            </navPoint>
+            <navPoint id="navPoint-38" playOrder="38">
+              <navLabel>
+                <text>Teoria della divisione ed ordine dei concetti.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_22_0"/>
+            </navPoint>
+            <navPoint id="navPoint-39" playOrder="39">
+              <navLabel>
+                <text>Critica della teoria della coordinazione e subordinazione.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_23_0"/>
+            </navPoint>
+            <navPoint id="navPoint-40" playOrder="40">
+              <navLabel>
+                <text>Il concetto come concetto dell'uno.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_24_0"/>
+            </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>II. IMPOSSIBILITÀ DI UNA LOGICA FORMALISTICA</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+            <navPoint id="navPoint-42" playOrder="42">
+              <navLabel>
+                <text>Indifferenza della forma logica rispetto alla forma linguistica.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_1_0"/>
+            </navPoint>
+      
     </navPoint>
     
     <navPoint id="navPoint-90" playOrder="90">
