@@ -281,6 +281,18 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_4_0"/>
             </navPoint>
+            <navPoint id="navPoint-46" playOrder="46">
+              <navLabel>
+                <text>La logica formalistica e il suo principio.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_5_0"/>
+            </navPoint>
+            <navPoint id="navPoint-47" playOrder="47">
+              <navLabel>
+                <text>Molteplicità di forme logiche in capo ad essa.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_6_0"/>
+            </navPoint>
 
     </navPoint>
     
