@@ -323,6 +323,12 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_11_0"/>
             </navPoint>
+            <navPoint id="navPoint-53" playOrder="53">
+              <navLabel>
+                <text>Carattere non matematico di questa.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_12_0"/>
+            </navPoint>
 
     </navPoint>
     
