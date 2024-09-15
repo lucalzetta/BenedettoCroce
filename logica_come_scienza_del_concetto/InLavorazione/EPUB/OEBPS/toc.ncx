@@ -254,7 +254,7 @@
     </navPoint>
     <navPoint id="navPoint-41" playOrder="41">
       <navLabel>
-        <text>II. IMPOSSIBILITÀ DI UNA LOGICA FORMALISTICA</text>
+        <text>III. IMPOSSIBILITÀ DI UNA LOGICA FORMALISTICA</text>
       </navLabel>
       <content src="Text/Section0010.xhtml"/>
             <navPoint id="navPoint-42" playOrder="42">
@@ -263,7 +263,19 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_1_0"/>
             </navPoint>
-      
+            <navPoint id="navPoint-43" playOrder="43">
+              <navLabel>
+                <text>Non dualismo di pensiero e linguaggio.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_2_0"/>
+            </navPoint>
+            <navPoint id="navPoint-44" playOrder="44">
+              <navLabel>
+                <text>Esame estetico ed esame filosofico del fatto logico. La storia della letteratura e la storia della filosofia.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_3_0"/>
+            </navPoint>
+
     </navPoint>
     
     <navPoint id="navPoint-90" playOrder="90">
