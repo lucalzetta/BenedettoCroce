@@ -293,6 +293,30 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_6_0"/>
             </navPoint>
+            <navPoint id="navPoint-48" playOrder="48">
+              <navLabel>
+                <text>Il concetto nella logica formalistica.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_7_0"/>
+            </navPoint>
+            <navPoint id="navPoint-49" playOrder="49">
+              <navLabel>
+                <text>La teoria del giudizio.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_8_0"/>
+            </navPoint>
+            <navPoint id="navPoint-50" playOrder="50">
+              <navLabel>
+                <text>La divisione dei giudizii.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_9_0"/>
+            </navPoint>
+            <navPoint id="navPoint-51" playOrder="51">
+              <navLabel>
+                <text>La teoria del sillogismo, e delle sue forme e modi.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_10_0"/>
+            </navPoint>
 
     </navPoint>
     
