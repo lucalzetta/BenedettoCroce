@@ -275,6 +275,12 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_3_0"/>
             </navPoint>
+            <navPoint id="navPoint-45" playOrder="45">
+              <navLabel>
+                <text>Vana pretesa di cogliere il fatto logico nelle forme linguistiche astratte.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_4_0"/>
+            </navPoint>
 
     </navPoint>
     

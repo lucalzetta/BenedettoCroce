@@ -1,6 +1,0 @@
-Prova di file creato per verificare l'efficacia di gitignore sulla directory /Originali
-Modifica del file per ulteriore test 14-09-2024 15:05
-Ulteriore modifica dopo l'aggiornamento delle impostazioni globali 14-09-2024 16:24
-Ulteriore modifica dopo l'aggiornamento delle impostazioni globali 14-09-2024 16:53
-Ulteriore modifica dopo l'aggiornamento delle impostazioni globali 14-09-2024 17:19
-
