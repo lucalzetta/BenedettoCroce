@@ -1,1 +1,3 @@
 Prova di file creato per verificare l'efficacia di gitignore sulla directory /Originali
+Modifica del file per ulteriore test 14-09-2024 15:05
+

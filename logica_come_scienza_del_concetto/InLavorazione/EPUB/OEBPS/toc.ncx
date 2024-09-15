@@ -111,73 +111,115 @@
               <navLabel>
                 <text>La ricerca dell'iniversale.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_10_0"/>
+              <content src="Text/Section0009.xhtml#s_2_1_0"/>
             </navPoint>
             <navPoint id="navPoint-18" playOrder="18">
               <navLabel>
                 <text>La vita della scienza come realtà logica.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_11_0"/>
+              <content src="Text/Section0009.xhtml#s_2_2_0"/>
             </navPoint>
             <navPoint id="navPoint-19" playOrder="19">
               <navLabel>
                 <text>Il concetto.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_12_0"/>
+              <content src="Text/Section0009.xhtml#s_2_3_0"/>
             </navPoint>
             <navPoint id="navPoint-20" playOrder="20">
               <navLabel>
                 <text>Critica delle negazioni del concetto.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_13_0"/>
+              <content src="Text/Section0009.xhtml#s_2_4_0"/>
             </navPoint>
             <navPoint id="navPoint-21" playOrder="21">
               <navLabel>
                 <text>Critica di false teorie intorno al concetto.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_14_0"/>
+              <content src="Text/Section0009.xhtml#s_2_5_0"/>
             </navPoint>
             <navPoint id="navPoint-22" playOrder="22">
               <navLabel>
                 <text>Nominalismo e realismo.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_15_0"/>
+              <content src="Text/Section0009.xhtml#s_2_6_0"/>
             </navPoint>
             <navPoint id="navPoint-23" playOrder="23">
               <navLabel>
                 <text>Il concetto come unica forma logica.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_16_0"/>
+              <content src="Text/Section0009.xhtml#s_2_7_0"/>
             </navPoint>
             <navPoint id="navPoint-24" playOrder="24">
               <navLabel>
                 <text>Concetto e giudizio.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_17_0"/>
+              <content src="Text/Section0009.xhtml#s_2_8_0"/>
             </navPoint>
             <navPoint id="navPoint-25" playOrder="25">
               <navLabel>
                 <text>Il giudizio e la proposizione estetica.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_18_0"/>
+              <content src="Text/Section0009.xhtml#s_2_9_0"/>
             </navPoint>
             <navPoint id="navPoint-26" playOrder="26">
               <navLabel>
                 <text>Il giudizio individuale.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_19_0"/>
+              <content src="Text/Section0009.xhtml#s_2_10_0"/>
             </navPoint>
             <navPoint id="navPoint-27" playOrder="27">
               <navLabel>
                 <text>Il giudizio logico o definizione. Sua identità col concetto.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_20_0"/>
+              <content src="Text/Section0009.xhtml#s_2_11_0"/>
             </navPoint>
             <navPoint id="navPoint-28" playOrder="28">
               <navLabel>
                 <text>Concetto e linguaggio.</text>
               </navLabel>
-              <content src="Text/Section0009.xhtml#s_1_21_0"/>
+              <content src="Text/Section0009.xhtml#s_2_12_0"/>
+            </navPoint>
+            <navPoint id="navPoint-29" playOrder="29">
+              <navLabel>
+                <text>False idee intorno alla definizione.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_13_0"/>
+            </navPoint>
+            <navPoint id="navPoint-30" playOrder="30">
+              <navLabel>
+                <text>L'odio contro le definizioni.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_14_0"/>
+            </navPoint>
+            <navPoint id="navPoint-31" playOrder="31">
+              <navLabel>
+                <text>La definizione e le forme sistematiche.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_15_0"/>
+            </navPoint>
+            <navPoint id="navPoint-32" playOrder="32">
+              <navLabel>
+                <text>Critica di varie teorie sul giudizio logico.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_16_0"/>
+            </navPoint>
+            <navPoint id="navPoint-33" playOrder="33">
+              <navLabel>
+                <text>Critica della distinzione di soggetto e predicato.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_17_0"/>
+            </navPoint>
+            <navPoint id="navPoint-34" playOrder="34">
+              <navLabel>
+                <text>Critica del sillogismo come forma logica.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_18_0"/>
+            </navPoint>
+            <navPoint id="navPoint-35" playOrder="35">
+              <navLabel>
+                <text>Critica dei principii logici.</text>
+              </navLabel>
+              <content src="Text/Section0009.xhtml#s_2_19_0"/>
             </navPoint>
 
     </navPoint>
