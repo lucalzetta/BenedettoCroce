@@ -341,7 +341,19 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_14_0"/>
             </navPoint>
-
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>IV. IL CONCETTO E LA RAPPRESENTAZIONE STORICA.</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+            <navPoint id="navPoint-57" playOrder="57">
+              <navLabel>
+                <text>I concetti nelle proposizioni estetiche.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_1_0"/>
+            </navPoint>
+      
     </navPoint>
     
     <navPoint id="navPoint-90" playOrder="90">
