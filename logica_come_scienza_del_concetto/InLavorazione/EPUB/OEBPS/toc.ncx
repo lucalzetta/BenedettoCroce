@@ -329,6 +329,18 @@
               </navLabel>
               <content src="Text/Section0010.xhtml#s_3_12_0"/>
             </navPoint>
+            <navPoint id="navPoint-54" playOrder="54">
+              <navLabel>
+                <text>Nessuna diversità sostanziale rispetto alla formalistica.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_13_0"/>
+            </navPoint>
+            <navPoint id="navPoint-55" playOrder="55">
+              <navLabel>
+                <text>Funzione pratica della logica matematica e formalistica.</text>
+              </navLabel>
+              <content src="Text/Section0010.xhtml#s_3_14_0"/>
+            </navPoint>
 
     </navPoint>
     

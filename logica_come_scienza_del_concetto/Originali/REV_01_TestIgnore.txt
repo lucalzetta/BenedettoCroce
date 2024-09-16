@@ -1,0 +1,1 @@
+File aggiunto per il test di gitignore
