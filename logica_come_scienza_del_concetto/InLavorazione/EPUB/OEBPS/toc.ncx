@@ -391,6 +391,42 @@
               </navLabel>
               <content src="Text/Section0011.xhtml#s_4_7_0"/>
             </navPoint>
+            <navPoint id="navPoint-64" playOrder="64">
+              <navLabel>
+                <text>Critica dell'esistenza come posizione.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_8_0"/>
+            </navPoint>
+            <navPoint id="navPoint-65" playOrder="65">
+              <navLabel>
+                <text>Analisi del concetto di esistenza.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_9_0"/>
+            </navPoint>
+            <navPoint id="navPoint-66" playOrder="66">
+              <navLabel>
+                <text>Risoluzione di esso nella distinzione del teorema e del pratico.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_10_0"/>
+            </navPoint>
+            <navPoint id="navPoint-67" playOrder="67">
+              <navLabel>
+                <text>Spiegazione delle difficoltà delle teorie precedenti.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_11_0"/>
+            </navPoint>
+            <navPoint id="navPoint-68" playOrder="68">
+              <navLabel>
+                <text>I giudizii individuali e la storia.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_12_0"/>
+            </navPoint>
+            <navPoint id="navPoint-69" playOrder="69">
+              <navLabel>
+                <text>Senso filosofico della storicità.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_13_0"/>
+            </navPoint>
 
     </navPoint>
     
