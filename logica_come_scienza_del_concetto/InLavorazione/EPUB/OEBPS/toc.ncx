@@ -252,6 +252,7 @@
               <content src="Text/Section0009.xhtml#s_2_24_0"/>
             </navPoint>
     </navPoint>
+
     <navPoint id="navPoint-41" playOrder="41">
       <navLabel>
         <text>III. IMPOSSIBILITÀ DI UNA LOGICA FORMALISTICA</text>
@@ -342,6 +343,7 @@
               <content src="Text/Section0010.xhtml#s_3_14_0"/>
             </navPoint>
     </navPoint>
+
     <navPoint id="navPoint-56" playOrder="56">
       <navLabel>
         <text>IV. IL CONCETTO E LA RAPPRESENTAZIONE STORICA.</text>
@@ -353,7 +355,43 @@
               </navLabel>
               <content src="Text/Section0011.xhtml#s_4_1_0"/>
             </navPoint>
-      
+            <navPoint id="navPoint-58" playOrder="58">
+              <navLabel>
+                <text>I concetti nei giudizii individuali.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_2_0"/>
+            </navPoint>
+            <navPoint id="navPoint-59" playOrder="59">
+              <navLabel>
+                <text>Giudizii individuali e giudizii esistenziali.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_3_0"/>
+            </navPoint>
+            <navPoint id="navPoint-60" playOrder="60">
+              <navLabel>
+                <text>L'esistenza come predicato e la distinzione di soggetto e predicato nel giudizio individuale.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_4_0"/>
+            </navPoint>
+            <navPoint id="navPoint-61" playOrder="61">
+              <navLabel>
+                <text>Esistenzialità nel giudizio individuale.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_5_0"/>
+            </navPoint>
+            <navPoint id="navPoint-62" playOrder="62">
+              <navLabel>
+                <text>Natura della esistenzialità.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_6_0"/>
+            </navPoint>
+            <navPoint id="navPoint-63" playOrder="63">
+              <navLabel>
+                <text>Critica dell'esistenza come nuova forma teoretica.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_7_0"/>
+            </navPoint>
+
     </navPoint>
     
     <navPoint id="navPoint-90" playOrder="90">
