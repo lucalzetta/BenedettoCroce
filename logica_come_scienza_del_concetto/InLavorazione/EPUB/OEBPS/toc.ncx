@@ -427,6 +427,84 @@
               </navLabel>
               <content src="Text/Section0011.xhtml#s_4_13_0"/>
             </navPoint>
+            <navPoint id="navPoint-70" playOrder="70">
+              <navLabel>
+                <text>Carattere storico della percezione.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_14_0"/>
+            </navPoint>
+            <navPoint id="navPoint-71" playOrder="71">
+              <navLabel>
+                <text>Totalità della realtà come storicizzabile.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_15_0"/>
+            </navPoint>
+            <navPoint id="navPoint-72" playOrder="72">
+              <navLabel>
+                <text>La forma artistica della storia.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_16_0"/>
+            </navPoint>
+            <navPoint id="navPoint-73" playOrder="73">
+              <navLabel>
+                <text>Carattere intuitivo dell'indagine storica.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_17_0"/>
+            </navPoint>
+            <navPoint id="navPoint-74" playOrder="74">
+              <navLabel>
+                <text>Il carattere antisistematico della storia. Impossibilità di criterio distintivo dei fatti in storici e non storici.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_18_0"/>
+            </navPoint>
+            <navPoint id="navPoint-75" playOrder="75">
+              <navLabel>
+                <text>L'elemento intellettivo e la soggettività storica.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_19_0"/>
+            </navPoint>
+            <navPoint id="navPoint-76" playOrder="76">
+              <navLabel>
+                <text>Esigenza di un sistema filosofico come base della storiografia.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_20_0"/>
+            </navPoint>
+            <navPoint id="navPoint-77" playOrder="77">
+              <navLabel>
+                <text>La teoria dei fattori storici, e la filosofia della storia.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_21_0"/>
+            </navPoint>
+            <navPoint id="navPoint-78" playOrder="78">
+              <navLabel>
+                <text>Le divisioni della storia.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_22_0"/>
+            </navPoint>
+            <navPoint id="navPoint-79" playOrder="79">
+              <navLabel>
+                <text>I giudizii di valore nella storia e l'imparzialità storica.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_23_0"/>
+            </navPoint>
+            <navPoint id="navPoint-80" playOrder="80">
+              <navLabel>
+                <text>Critica della divisione della storia in narrativa e riflettente.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_24_0"/>
+            </navPoint>
+            <navPoint id="navPoint-81" playOrder="81">
+              <navLabel>
+                <text>Unità dei due elementi nel giudizio storico, e indistinguibilità di stadii nel pensiero storico.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_25_0"/>
+            </navPoint>
+            <navPoint id="navPoint-82" playOrder="82">
+              <navLabel>
+                <text>La storia come risultato dell'arte e della filosofia. L'intuizione intellettuale.</text>
+              </navLabel>
+              <content src="Text/Section0011.xhtml#s_4_26_0"/>
+            </navPoint>
 
     </navPoint>
     
