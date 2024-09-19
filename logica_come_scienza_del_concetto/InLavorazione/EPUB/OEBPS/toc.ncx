@@ -505,6 +505,19 @@
               </navLabel>
               <content src="Text/Section0011.xhtml#s_4_26_0"/>
             </navPoint>
+    </navPoint>
+
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>V. IL CONCETTO E LE DISCIPLINE NATURALI E MATEMATICHE</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+            <navPoint id="navPoint-84" playOrder="84">
+              <navLabel>
+                <text>Il conoscere puro e le scienze naturali.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_1_0"/>
+            </navPoint>
 
     </navPoint>
     
