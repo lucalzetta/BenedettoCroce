@@ -518,6 +518,12 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_1_0"/>
             </navPoint>
+            <navPoint id="navPoint-85" playOrder="85">
+              <navLabel>
+                <text>Varie relazioni del pratico col teoretico.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_2_0"/>
+            </navPoint>
 
     </navPoint>
     
