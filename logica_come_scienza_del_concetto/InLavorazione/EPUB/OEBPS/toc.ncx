@@ -524,10 +524,52 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_2_0"/>
             </navPoint>
+            <navPoint id="navPoint-86" playOrder="86">
+              <navLabel>
+                <text>Interferenza del pratico nel teoretico, e prodotti pratici di materia conoscitiva.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_3_0"/>
+            </navPoint>
+            <navPoint id="navPoint-87" playOrder="87">
+              <navLabel>
+                <text>Esempii.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_4_0"/>
+            </navPoint>
+            <navPoint id="navPoint-88" playOrder="88">
+              <navLabel>
+                <text>Rappresentazioni generali e concetti rappresentativi: pseudoconcetti.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_5_0"/>
+            </navPoint>
+            <navPoint id="navPoint-89" playOrder="89">
+              <navLabel>
+                <text>Caratteri degli pseudoconcetti e i concetti puri.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_6_0"/>
+            </navPoint>
+            <navPoint id="navPoint-90" playOrder="90">
+              <navLabel>
+                <text>Dispute intorno alla teoria del concetto.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_7_0"/>
+            </navPoint>
+            <navPoint id="navPoint-91" playOrder="91">
+              <navLabel>
+                <text>Lo pseudoconcetto come forma delle scienze naturali.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_8_0"/>
+            </navPoint>
+            <navPoint id="navPoint-92" playOrder="92">
+              <navLabel>
+                <text>Distinzione di carattere pratico e fine pratico.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_9_0"/>
+            </navPoint>
 
     </navPoint>
     
-    <navPoint id="navPoint-90" playOrder="90">
+    <navPoint id="navPoint-93" playOrder="93">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
