@@ -566,10 +566,16 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_9_0"/>
             </navPoint>
+            <navPoint id="navPoint-93" playOrder="93">
+              <navLabel>
+                <text>Significato gnoseologico delle parole natura e naturale.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_10_0"/>
+            </navPoint>
 
     </navPoint>
     
-    <navPoint id="navPoint-93" playOrder="93">
+    <navPoint id="navPoint-94" playOrder="94">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
