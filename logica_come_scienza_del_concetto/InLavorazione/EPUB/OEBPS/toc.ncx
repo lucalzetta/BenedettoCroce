@@ -578,10 +578,34 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_11_0"/>
             </navPoint>
+            <navPoint id="navPoint-95" playOrder="95">
+              <navLabel>
+                <text>Identità di descrittivo ed esplicativo nelle scienze naturali.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_12_0"/>
+            </navPoint>
+            <navPoint id="navPoint-96" playOrder="96">
+              <navLabel>
+                <text>Legge e concetto.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_13_0"/>
+            </navPoint>
+            <navPoint id="navPoint-97" playOrder="97">
+              <navLabel>
+                <text>Causa ed effetto.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_14_0"/>
+            </navPoint>
+            <navPoint id="navPoint-98" playOrder="98">
+              <navLabel>
+                <text>Il postulato dell'uniformità della natura, e l'empiricità delle leggi naturali.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_15_0"/>
+            </navPoint>
 
     </navPoint>
     
-    <navPoint id="navPoint-94" playOrder="94">
+    <navPoint id="navPoint-99" playOrder="99">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
