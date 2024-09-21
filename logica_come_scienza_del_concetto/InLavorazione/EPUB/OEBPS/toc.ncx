@@ -572,6 +572,12 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_10_0"/>
             </navPoint>
+            <navPoint id="navPoint-94" playOrder="94">
+              <navLabel>
+                <text>Metodo naturalistico nelle scienze dell'uomo: precettistiche, psicologia e sociologia.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_11_0"/>
+            </navPoint>
 
     </navPoint>
     
