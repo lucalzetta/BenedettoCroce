@@ -602,10 +602,34 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_15_0"/>
             </navPoint>
+            <navPoint id="navPoint-99" playOrder="99">
+              <navLabel>
+                <text>Fondamento storico delle scienze naturali.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_16_0"/>
+            </navPoint>
+            <navPoint id="navPoint-100" playOrder="100">
+              <navLabel>
+                <text>Conseguenze del fondamento storico delle scienze naturali.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_17_0"/>
+            </navPoint>
+            <navPoint id="navPoint-101" playOrder="101">
+              <navLabel>
+                <text>La scienza matematica della natura.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_18_0"/>
+            </navPoint>
+            <navPoint id="navPoint-102" playOrder="102">
+              <navLabel>
+                <text>Indole delle matematiche.</text>
+              </navLabel>
+              <content src="Text/Section0012.xhtml#s_5_19_0"/>
+            </navPoint>
 
     </navPoint>
     
-    <navPoint id="navPoint-99" playOrder="99">
+    <navPoint id="navPoint-120" playOrder="120">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
