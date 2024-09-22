@@ -681,10 +681,16 @@
               </navLabel>
               <content src="Text/Section0013.xhtml#s_6_1_0"/>
             </navPoint>
-      
+            <navPoint id="navPoint-112" playOrder="112">
+              <navLabel>
+                <text>Il problema delle categorie.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_2_0"/>
+            </navPoint>
+
     </navPoint>
     
-    <navPoint id="navPoint-112" playOrder="112">
+    <navPoint id="navPoint-113" playOrder="113">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
