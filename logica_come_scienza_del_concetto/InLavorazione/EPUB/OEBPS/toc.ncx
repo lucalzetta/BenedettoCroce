@@ -668,10 +668,23 @@
               </navLabel>
               <content src="Text/Section0012.xhtml#s_5_26_0"/>
             </navPoint>
+    </navPoint>
 
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>VI. LA RICERCA DELLE CATEGORIE E LA CLASSIFICAZIONE DELLE SCIENZE</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+            <navPoint id="navPoint-111" playOrder="111">
+              <navLabel>
+                <text>Inesistenza di una logica speciale.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_1_0"/>
+            </navPoint>
+      
     </navPoint>
     
-    <navPoint id="navPoint-110" playOrder="110">
+    <navPoint id="navPoint-112" playOrder="112">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
