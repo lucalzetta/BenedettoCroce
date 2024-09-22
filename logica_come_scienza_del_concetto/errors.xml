@@ -5,7 +5,7 @@
        name="epubcheck"
        release="4.2.6"
        xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/jhove.xsd">
-   <date>2024-09-22T14:14:26+02:00</date>
+   <date>2024-09-22T14:30:15+02:00</date>
    <repInfo uri="../../croce_logica_come_scienza_del_concetto_puro.epub">
       <created>2024-05-12T14:24:38Z</created>
       <format>application/epub+zip</format>
@@ -13,21 +13,6 @@
       <status>Not well-formed</status>
       <messages>
          <message id="PKG-006" severity="error">PKG-006, ERROR, [Il file "mimetype" è mancante oppure non è il primo file del contenitore EPUB. Controlla di aver compresso il file correttamente.], croce_logica_come_scienza_del_concetto_puro.epub</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0013.xhtml (12-8)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0013.xhtml (13-6)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0013.xhtml (16-5)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0013.xhtml (17-6)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0014.xhtml (12-8)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0014.xhtml (13-6)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0014.xhtml (16-5)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0014.xhtml (17-6)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0015.xhtml (12-8)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0015.xhtml (13-6)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0015.xhtml (16-5)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "group" non ammesso in questo punto . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0015.xhtml (17-6)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "body" non completo: mancano gli elementi figli obbligatori . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0013.xhtml (19-8)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "body" non completo: mancano gli elementi figli obbligatori . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0014.xhtml (19-8)</message>
-         <message id="RSC-005" severity="error">RSC-005, ERROR, [È occorso un errore durante l'analisi del file: elemento "body" non completo: mancano gli elementi figli obbligatori . Atteso elemento "address", "blockquote", "del", "div", "dl", "h1", "h2", "h3", "h4", "h5", "h6", "hr", "ins", "noscript", "ns:svg", "ol", "p", "pre", "script", "table" o "ul" (con xmlns:ns="http://www.w3.org/2000/svg").], OEBPS/Text/Section0015.xhtml (19-8)</message>
       </messages>
       <mimeType>application/epub+zip</mimeType>
       <properties>
@@ -40,7 +25,7 @@
          <property>
             <name>CharacterCount</name>
             <values arity="Scalar" type="Long">
-               <value>225143</value>
+               <value>225593</value>
             </values>
          </property>
          <property>
