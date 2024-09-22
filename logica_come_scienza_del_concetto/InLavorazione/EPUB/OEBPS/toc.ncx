@@ -671,7 +671,7 @@
 
     </navPoint>
     
-    <navPoint id="navPoint-120" playOrder="120">
+    <navPoint id="navPoint-110" playOrder="110">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
