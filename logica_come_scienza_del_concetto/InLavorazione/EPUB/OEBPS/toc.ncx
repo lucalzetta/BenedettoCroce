@@ -687,10 +687,52 @@
               </navLabel>
               <content src="Text/Section0013.xhtml#s_6_2_0"/>
             </navPoint>
+            <navPoint id="navPoint-113" playOrder="113">
+              <navLabel>
+                <text>Le categorie e il problema integrale della filosofia.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_3_0"/>
+            </navPoint>
+            <navPoint id="navPoint-114" playOrder="114">
+              <navLabel>
+                <text>I sistemi di categorie: da Aristotele ad Hegel.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_4_0"/>
+            </navPoint>
+            <navPoint id="navPoint-115" playOrder="115">
+              <navLabel>
+                <text>Dottrina delle categorie e Logica.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_5_0"/>
+            </navPoint>
+            <navPoint id="navPoint-116" playOrder="116">
+              <navLabel>
+                <text>Il problema della classificazione delle scienze.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_6_0"/>
+            </navPoint>
+            <navPoint id="navPoint-117" playOrder="117">
+              <navLabel>
+                <text>Le classificazioni empiriche.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_7_0"/>
+            </navPoint>
+            <navPoint id="navPoint-118" playOrder="118">
+              <navLabel>
+                <text>Le classificazioni razionali e il problema integrale della filosofia.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_8_0"/>
+            </navPoint>
+            <navPoint id="navPoint-119" playOrder="119">
+              <navLabel>
+                <text>Le classificazioni del concreto e la storia della scienza.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_9_0"/>
+            </navPoint>
 
     </navPoint>
     
-    <navPoint id="navPoint-113" playOrder="113">
+    <navPoint id="navPoint-120" playOrder="120">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
