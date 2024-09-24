@@ -759,10 +759,24 @@
               </navLabel>
               <content src="Text/Section0013.xhtml#s_6_14_0"/>
             </navPoint>
-
     </navPoint>
     
     <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>VII. LA TEORIA DELL'ERRORE</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+            <navPoint id="navPoint-126" playOrder="126">
+              <navLabel>
+                <text>La teoria dell'errore e la logica.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_1_0"/>
+            </navPoint>
+
+    </navPoint>
+
+    
+    <navPoint id="navPoint-127" playOrder="127">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
