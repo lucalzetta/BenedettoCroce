@@ -5,16 +5,15 @@
        name="epubcheck"
        release="4.2.6"
        xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/jhove.xsd">
-   <date>2024-09-23T17:55:15+02:00</date>
+   <date>2024-09-24T15:57:35+02:00</date>
    <repInfo uri="../../croce_logica_come_scienza_del_concetto_puro.epub">
       <created>2024-05-12T14:24:38Z</created>
-      <format>application/epub+zip</format>
+      <format>application/octet-stream</format>
       <version>2.0.1</version>
       <status>Not well-formed</status>
       <messages>
          <message id="PKG-006" severity="error">PKG-006, ERROR, [Il file "mimetype" è mancante oppure non è il primo file del contenitore EPUB. Controlla di aver compresso il file correttamente.], croce_logica_come_scienza_del_concetto_puro.epub</message>
       </messages>
-      <mimeType>application/epub+zip</mimeType>
       <properties>
          <property>
             <name>FileName</name>
@@ -25,7 +24,7 @@
          <property>
             <name>CharacterCount</name>
             <values arity="Scalar" type="Long">
-               <value>244082</value>
+               <value>258192</value>
             </values>
          </property>
          <property>

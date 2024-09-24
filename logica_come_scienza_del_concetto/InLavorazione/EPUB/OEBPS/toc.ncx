@@ -729,10 +729,40 @@
               </navLabel>
               <content src="Text/Section0013.xhtml#s_6_9_0"/>
             </navPoint>
+            <navPoint id="navPoint-120" playOrder="120">
+              <navLabel>
+                <text>Le scienze e i libri di scienze.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_10_0"/>
+            </navPoint>
+            <navPoint id="navPoint-121" playOrder="121">
+              <navLabel>
+                <text>Le compilazioni didattiche e pratiche.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_11_0"/>
+            </navPoint>
+            <navPoint id="navPoint-122" playOrder="122">
+              <navLabel>
+                <text>Dissociazioni ed associazioni da compiere.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_12_0"/>
+            </navPoint>
+            <navPoint id="navPoint-123" playOrder="123">
+              <navLabel>
+                <text>I prologhi metodici dei libri di scienza.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_13_0"/>
+            </navPoint>
+            <navPoint id="navPoint-124" playOrder="124">
+              <navLabel>
+                <text>L'incompetenza logica degli specialisti.</text>
+              </navLabel>
+              <content src="Text/Section0013.xhtml#s_6_14_0"/>
+            </navPoint>
 
     </navPoint>
     
-    <navPoint id="navPoint-120" playOrder="120">
+    <navPoint id="navPoint-125" playOrder="125">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
