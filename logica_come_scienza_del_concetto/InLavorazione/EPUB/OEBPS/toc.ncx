@@ -860,6 +860,27 @@
 
     <navPoint id="navPoint-141" playOrder="141">
       <navLabel>
+        <text>VIII. PRINCIPII DIRETTIVI DELLA STORIA DELLA LOGICA.</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+            <navPoint id="navPoint-142" playOrder="142">
+              <navLabel>
+                <text>I.</text>
+              </navLabel>
+              <content src="Text/Section0015.xhtml#s_8_1_1"/>
+                <navPoint id="navPoint-143" playOrder="143">
+                  <navLabel>
+                    <text>La storia concetto del concetto.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_1_0"/>
+                </navPoint>
+
+            </navPoint>
+      
+    </navPoint>
+
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
         <text>NOTE</text>
       </navLabel>
       <content src="Text/Section0016.xhtml"/>
