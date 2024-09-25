@@ -5,7 +5,7 @@
        name="epubcheck"
        release="4.2.6"
        xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/jhove.xsd">
-   <date>2024-09-24T17:53:42+02:00</date>
+   <date>2024-09-25T18:11:51+02:00</date>
    <repInfo uri="../../croce_logica_come_scienza_del_concetto_puro.epub">
       <created>2024-05-12T14:24:38Z</created>
       <format>application/octet-stream</format>
@@ -24,7 +24,7 @@
          <property>
             <name>CharacterCount</name>
             <values arity="Scalar" type="Long">
-               <value>267657</value>
+               <value>290570</value>
             </values>
          </property>
          <property>

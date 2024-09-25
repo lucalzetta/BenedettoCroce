@@ -790,10 +790,75 @@
               </navLabel>
               <content src="Text/Section0014.xhtml#s_7_4_0"/>
             </navPoint>
-
+            <navPoint id="navPoint-130" playOrder="130">
+              <navLabel>
+                <text>Varie classi di errori logici, cioè filosofici.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_5_0"/>
+            </navPoint>
+            <navPoint id="navPoint-131" playOrder="131">
+              <navLabel>
+                <text>Errori provenienti dal naturalismo.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_6_0"/>
+            </navPoint>
+            <navPoint id="navPoint-132" playOrder="132">
+              <navLabel>
+                <text>Scienze naturali e filosofia.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_7_0"/>
+            </navPoint>
+            <navPoint id="navPoint-133" playOrder="133">
+              <navLabel>
+                <text>Filosofia come idealismo e filosofia dello spirito.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_8_0"/>
+            </navPoint>
+            <navPoint id="navPoint-134" playOrder="134">
+              <navLabel>
+                <text>Le difficoltà della filosofia idealistica.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_9_0"/>
+            </navPoint>
+            <navPoint id="navPoint-135" playOrder="135">
+              <navLabel>
+                <text>Errori del materialismo.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_10_0"/>
+            </navPoint>
+            <navPoint id="navPoint-136" playOrder="136">
+              <navLabel>
+                <text>Errori dello storicismo.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_11_0"/>
+            </navPoint>
+            <navPoint id="navPoint-137" playOrder="137">
+              <navLabel>
+                <text>Errori dell'esteticismo.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_12_0"/>
+            </navPoint>
+            <navPoint id="navPoint-138" playOrder="138">
+              <navLabel>
+                <text>Origine dell'agnosticismo.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_13_0"/>
+            </navPoint>
+            <navPoint id="navPoint-139" playOrder="139">
+              <navLabel>
+                <text>Errori del praticismo, e del metodologismo.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_14_0"/>
+            </navPoint>
+            <navPoint id="navPoint-140" playOrder="140">
+              <navLabel>
+                <text>La metafisica come critica della metafisica.</text>
+              </navLabel>
+              <content src="Text/Section0014.xhtml#s_7_15_0"/>
+            </navPoint>
     </navPoint>
 
-    <navPoint id="navPoint-130" playOrder="130">
+    <navPoint id="navPoint-141" playOrder="141">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
