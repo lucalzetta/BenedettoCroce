@@ -509,7 +509,7 @@
 
     <navPoint id="navPoint-83" playOrder="83">
       <navLabel>
-        <text>V. IL CONCETTO E LE DISCIPLINE NATURALI E MATEMATICHE</text>
+        <text>V. IL CONCETTO E LE DISCIPLINE NATURALI E MATEMATICHE.</text>
       </navLabel>
       <content src="Text/Section0012.xhtml"/>
             <navPoint id="navPoint-84" playOrder="84">
@@ -863,23 +863,55 @@
         <text>VIII. PRINCIPII DIRETTIVI DELLA STORIA DELLA LOGICA.</text>
       </navLabel>
       <content src="Text/Section0015.xhtml"/>
+      
             <navPoint id="navPoint-142" playOrder="142">
               <navLabel>
                 <text>I.</text>
               </navLabel>
               <content src="Text/Section0015.xhtml#s_8_1_1"/>
+              
                 <navPoint id="navPoint-143" playOrder="143">
                   <navLabel>
                     <text>La storia concetto del concetto.</text>
                   </navLabel>
                   <content src="Text/Section0015.xhtml#s_8_1_0"/>
                 </navPoint>
+                <navPoint id="navPoint-144" playOrder="144">
+                  <navLabel>
+                    <text>La scoperta del concetto nella filosofia greca.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_2_0"/>
+                </navPoint>
+                <navPoint id="navPoint-145" playOrder="145">
+                  <navLabel>
+                    <text>Significato del nominalismo e realismo nella storia della logica.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_3_0"/>
+                </navPoint>
+                <navPoint id="navPoint-146" playOrder="146">
+                  <navLabel>
+                    <text>Significato della polemica aristotelica contro Platone.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_4_0"/>
+                </navPoint>
+                <navPoint id="navPoint-147" playOrder="147">
+                  <navLabel>
+                    <text>Aristotile e la distinzione delle scienze filosofiche dalle naturali e matematiche.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_5_0"/>
+                </navPoint>
+                <navPoint id="navPoint-148" playOrder="148">
+                  <navLabel>
+                    <text>I concetti necessarii e gli approssimativi.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_6_0"/>
+                </navPoint>
 
             </navPoint>
       
     </navPoint>
 
-    <navPoint id="navPoint-144" playOrder="144">
+    <navPoint id="navPoint-149" playOrder="149">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
