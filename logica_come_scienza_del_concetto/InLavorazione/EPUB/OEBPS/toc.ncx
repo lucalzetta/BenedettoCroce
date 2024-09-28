@@ -906,12 +906,48 @@
                   </navLabel>
                   <content src="Text/Section0015.xhtml#s_8_6_0"/>
                 </navPoint>
+                <navPoint id="navPoint-149" playOrder="149">
+                  <navLabel>
+                    <text>Realismo e nominalismo nella filosofia medievale.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_7_0"/>
+                </navPoint>
+                <navPoint id="navPoint-150" playOrder="150">
+                  <navLabel>
+                    <text>Realismo e nominalismo nella filosofia moderna.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_8_0"/>
+                </navPoint>
+                <navPoint id="navPoint-151" playOrder="151">
+                  <navLabel>
+                    <text>E. Kant</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_9_0"/>
+                </navPoint>
+                <navPoint id="navPoint-152" playOrder="152">
+                  <navLabel>
+                    <text>Hegel e la scoperta del nuovo concetto del concetto.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_10_0"/>
+                </navPoint>
+                <navPoint id="navPoint-153" playOrder="153">
+                  <navLabel>
+                    <text>Hegel e la scoperta del nuovo concetto del concetto.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_11_0"/>
+                </navPoint>
+                <navPoint id="navPoint-154" playOrder="154">
+                  <navLabel>
+                    <text>Il concetto in Herbart. Schleiermacher e Schopenhauer.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_12_0"/>
+                </navPoint>
 
             </navPoint>
       
     </navPoint>
 
-    <navPoint id="navPoint-149" playOrder="149">
+    <navPoint id="navPoint-155" playOrder="155">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
