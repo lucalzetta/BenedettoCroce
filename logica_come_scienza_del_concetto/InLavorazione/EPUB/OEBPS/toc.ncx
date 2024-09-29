@@ -942,6 +942,30 @@
                   </navLabel>
                   <content src="Text/Section0015.xhtml#s_8_12_0"/>
                 </navPoint>
+                <navPoint id="navPoint-155" playOrder="155">
+                  <navLabel>
+                    <text>La lacuna e l'errore della dottrina dell'Hegel, come causa di ribellione contro l'hegelismo.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_13_0"/>
+                </navPoint>
+                <navPoint id="navPoint-156" playOrder="156">
+                  <navLabel>
+                    <text>Logica del positivismo e neocriticismo.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_14_0"/>
+                </navPoint>
+                <navPoint id="navPoint-157" playOrder="157">
+                  <navLabel>
+                    <text>Il circolo del Lotze</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_15_0"/>
+                </navPoint>
+                <navPoint id="navPoint-158" playOrder="158">
+                  <navLabel>
+                    <text>Nuova gnoseologia delle scienze naturali.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_16_0"/>
+                </navPoint>
 
             </navPoint>
       
