@@ -868,110 +868,172 @@
               <navLabel>
                 <text>I.</text>
               </navLabel>
-              <content src="Text/Section0015.xhtml#s_8_1_1"/>
+              <content src="Text/Section0015.xhtml#s_8_0_1"/>
               
                 <navPoint id="navPoint-143" playOrder="143">
                   <navLabel>
                     <text>La storia concetto del concetto.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_1_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_1_1"/>
                 </navPoint>
                 <navPoint id="navPoint-144" playOrder="144">
                   <navLabel>
                     <text>La scoperta del concetto nella filosofia greca.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_2_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_2_1"/>
                 </navPoint>
                 <navPoint id="navPoint-145" playOrder="145">
                   <navLabel>
                     <text>Significato del nominalismo e realismo nella storia della logica.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_3_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_3_1"/>
                 </navPoint>
                 <navPoint id="navPoint-146" playOrder="146">
                   <navLabel>
                     <text>Significato della polemica aristotelica contro Platone.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_4_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_4_1"/>
                 </navPoint>
                 <navPoint id="navPoint-147" playOrder="147">
                   <navLabel>
                     <text>Aristotile e la distinzione delle scienze filosofiche dalle naturali e matematiche.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_5_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_5_1"/>
                 </navPoint>
                 <navPoint id="navPoint-148" playOrder="148">
                   <navLabel>
                     <text>I concetti necessarii e gli approssimativi.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_6_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_6_1"/>
                 </navPoint>
                 <navPoint id="navPoint-149" playOrder="149">
                   <navLabel>
                     <text>Realismo e nominalismo nella filosofia medievale.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_7_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_7_1"/>
                 </navPoint>
                 <navPoint id="navPoint-150" playOrder="150">
                   <navLabel>
                     <text>Realismo e nominalismo nella filosofia moderna.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_8_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_8_1"/>
                 </navPoint>
                 <navPoint id="navPoint-151" playOrder="151">
                   <navLabel>
                     <text>E. Kant</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_9_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_9_1"/>
                 </navPoint>
                 <navPoint id="navPoint-152" playOrder="152">
                   <navLabel>
                     <text>Hegel e la scoperta del nuovo concetto del concetto.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_10_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_10_1"/>
                 </navPoint>
                 <navPoint id="navPoint-153" playOrder="153">
                   <navLabel>
                     <text>Hegel e la scoperta del nuovo concetto del concetto.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_11_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_11_1"/>
                 </navPoint>
                 <navPoint id="navPoint-154" playOrder="154">
                   <navLabel>
                     <text>Il concetto in Herbart. Schleiermacher e Schopenhauer.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_12_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_12_1"/>
                 </navPoint>
                 <navPoint id="navPoint-155" playOrder="155">
                   <navLabel>
                     <text>La lacuna e l'errore della dottrina dell'Hegel, come causa di ribellione contro l'hegelismo.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_13_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_13_1"/>
                 </navPoint>
                 <navPoint id="navPoint-156" playOrder="156">
                   <navLabel>
                     <text>Logica del positivismo e neocriticismo.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_14_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_14_1"/>
                 </navPoint>
                 <navPoint id="navPoint-157" playOrder="157">
                   <navLabel>
                     <text>Il circolo del Lotze</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_15_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_15_1"/>
                 </navPoint>
                 <navPoint id="navPoint-158" playOrder="158">
                   <navLabel>
                     <text>Nuova gnoseologia delle scienze naturali.</text>
                   </navLabel>
-                  <content src="Text/Section0015.xhtml#s_8_16_0"/>
+                  <content src="Text/Section0015.xhtml#s_8_16_1"/>
+                </navPoint>
+                <navPoint id="navPoint-159" playOrder="159">
+                  <navLabel>
+                    <text>Avenarius e Mach.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_17_1"/>
+                </navPoint>
+                <navPoint id="navPoint-160" playOrder="160">
+                  <navLabel>
+                    <text>H. Rickert.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_18_1"/>
+                </navPoint>
+                <navPoint id="navPoint-161" playOrder="161">
+                  <navLabel>
+                    <text>H. Bergson.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_19_1"/>
+                </navPoint>
+                <navPoint id="navPoint-162" playOrder="162">
+                  <navLabel>
+                    <text>Il nuovo nominalismo e il problema della filosofia.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_20_1"/>
+                </navPoint>
+                <navPoint id="navPoint-163" playOrder="163">
+                  <navLabel>
+                    <text>La lacuna filosofica nel nuovo nominalismo.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_21_1"/>
+                </navPoint>
+                <navPoint id="navPoint-164" playOrder="164">
+                  <navLabel>
+                    <text>Necessità di colmarla con la dottrina dei concetti puri.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_22_1"/>
+                </navPoint>
+                <navPoint id="navPoint-165" playOrder="165">
+                  <navLabel>
+                    <text>La teoria dei valori.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_23_1"/>
+                </navPoint>
+            </navPoint>
+            
+            <navPoint id="navPoint-166" playOrder="166">
+              <navLabel>
+                <text>II.</text>
+              </navLabel>
+              <content src="Text/Section0015.xhtml#s_8_0_2"/>
+              
+                <navPoint id="navPoint-167" playOrder="167">
+                  <navLabel>
+                    <text>Le relazioni tra pensiero logico e linguaggio.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_1_2"/>
+                </navPoint>
+                <navPoint id="navPoint-168" playOrder="168">
+                  <navLabel>
+                    <text>L'errore della logica formalistica.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_2_2"/>
                 </navPoint>
 
             </navPoint>
       
     </navPoint>
 
-    <navPoint id="navPoint-155" playOrder="155">
+    <navPoint id="navPoint-169" playOrder="169">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
