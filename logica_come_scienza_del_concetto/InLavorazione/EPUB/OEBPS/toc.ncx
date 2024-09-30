@@ -1100,12 +1100,43 @@
                   </navLabel>
                   <content src="Text/Section0015.xhtml#s_8_14_2"/>
                 </navPoint>
-
+                <navPoint id="navPoint-181" playOrder="181">
+                  <navLabel>
+                    <text>La logica formalistica nella seconda metà del sec. XIX.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_15_2"/>
+                </navPoint>
+                <navPoint id="navPoint-182" playOrder="182">
+                  <navLabel>
+                    <text>Idee intellettualistiche del linguaggio.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_16_2"/>
+                </navPoint>
+                <navPoint id="navPoint-183" playOrder="183">
+                  <navLabel>
+                    <text>La logica matematica.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_17_2"/>
+                </navPoint>
             </navPoint>
-      
+            
+            <navPoint id="navPoint-184" playOrder="184">
+              <navLabel>
+                <text>III.</text>
+              </navLabel>
+              <content src="Text/Section0015.xhtml#s_8_0_3"/>
+        
+                <navPoint id="navPoint-185" playOrder="185">
+                  <navLabel>
+                    <text>La teoria dei giudizii storici, o Istorica.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_1_3"/>
+                </navPoint>
+              
+            </navPoint>
     </navPoint>
 
-    <navPoint id="navPoint-181" playOrder="181">
+    <navPoint id="navPoint-186" playOrder="186">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
