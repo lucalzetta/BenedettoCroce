@@ -1132,11 +1132,70 @@
                   </navLabel>
                   <content src="Text/Section0015.xhtml#s_8_1_3"/>
                 </navPoint>
-              
+                <navPoint id="navPoint-186" playOrder="186">
+                  <navLabel>
+                    <text>Sparse idee sulla storia negli scrittori antichi.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_2_3"/>
+                </navPoint>
+                <navPoint id="navPoint-187" playOrder="187">
+                  <navLabel>
+                    <text>Empirismo dei trattatisti del rinascimento.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_3_3"/>
+                </navPoint>
+                <navPoint id="navPoint-188" playOrder="188">
+                  <navLabel>
+                    <text>L'empirismo metodologico.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_4_3"/>
+                </navPoint>
+                <navPoint id="navPoint-189" playOrder="189">
+                  <navLabel>
+                    <text>La teoria della storia nella filosofia moderna, e lo scetticismo storico.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_5_3"/>
+                </navPoint>
+                <navPoint id="navPoint-190" playOrder="190">
+                  <navLabel>
+                    <text>La teoria della storia nell'Hegel e nell'Humboldt.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_6_3"/>
+                </navPoint>
+                <navPoint id="navPoint-191" playOrder="191">
+                  <navLabel>
+                    <text>La reazione contro l'invasione naturalistica nella storia, e le indagini gnoseologiche.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_7_3"/>
+                </navPoint>
+                <navPoint id="navPoint-192" playOrder="192">
+                  <navLabel>
+                    <text>Teorie recenti.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_8_3"/>
+                </navPoint>
+                <navPoint id="navPoint-193" playOrder="193">
+                  <navLabel>
+                    <text>Necessità di una scienza dell'intuizione pura (Estetica), come fondamento di una Istorica.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_9_3"/>
+                </navPoint>
+                <navPoint id="navPoint-194" playOrder="194">
+                  <navLabel>
+                    <text>Le discussioni sui fattori storici estranee alla Istorica e alla sua storia.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_10_3"/>
+                </navPoint>
+                <navPoint id="navPoint-195" playOrder="195">
+                  <navLabel>
+                    <text>Conclusione.</text>
+                  </navLabel>
+                  <content src="Text/Section0015.xhtml#s_8_11_3"/>
+                </navPoint>
             </navPoint>
     </navPoint>
 
-    <navPoint id="navPoint-186" playOrder="186">
+    <navPoint id="navPoint-196" playOrder="196">
       <navLabel>
         <text>NOTE</text>
       </navLabel>

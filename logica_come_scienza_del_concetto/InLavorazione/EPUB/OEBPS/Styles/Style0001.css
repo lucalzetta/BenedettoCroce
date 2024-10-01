@@ -157,7 +157,7 @@ font-style : normal;
 }
 
 /**********************************************************
-Modifiche per il frontespizio di lineamenti di Logica di   
+Modifiche per il teso di lineamenti di Logica di   
 Benedetto Croce a cura di Alzetta Luca 05/09/2024
 **********************************************************/
 
@@ -203,6 +203,10 @@ font-size : x-small;
 
 em {
 text-decoration : underline;
+}
+
+span.maiuscoletto {
+font-variant : small-caps;
 }
 
 /* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
