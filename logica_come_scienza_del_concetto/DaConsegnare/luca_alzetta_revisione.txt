@@ -9,6 +9,9 @@ di macchine diverse e monitor diversi. Perciò queste note non hanno un valore a
 riferimenti posizionali dell'errore rilevato che, comunque, è stato corretto.
 L'individuazione della posizione esatta dell'errore perciò è vanificata.
 
+08 ottobre 2024 nota post revisione:
+Corretto copertina Giuseppe Croce con Benedetto Croce
+
 Aggiornato il colophon con:
 Corretto ILineamenti con Lineamenti nel campo TRATTO DA:
 Corretto Lica Alzetta con Luca Alzetta nel campo REVISIONE:
@@ -138,6 +141,10 @@ Pag 224, riga 5 corretto un punto con una virgola
 Pag 225, nota 29 riga 2 corretto 'complate' con 'completa'
 Pag 226, riga 22 corretto 'ἐπιστημονικν' con 'ἐπιστημονικόν'
 Pag 228, riga 3 corretto un punto con una virgola
+
+08/10/2024 correzione postuma eseguita dopo la consegna del file revisionato
+Pag 228, titolo di paragrafo corretto 'fa logica' con 'la logica'
+
 Pag 229, riga 13 corretto 'ascendo' con 'uscendo'
 Pag 229, riga 21 corretto 'somniaus' con 'somnians'
 Pag 231, riga 14 corretto 'dall'Hegel a dalla sua scuola' con 'dall'Hegel e dalla sua scuola'
@@ -146,6 +153,10 @@ Pag 237, riga 26 corretto 'tradizionale' con 'tradizionali,' (aggiunto virgola e
 Pag 240, riga 10 corretto 'egli' con 'e gli'
 Pag 242, riga 1 corretto 'trattatisti dal rinascimento' con 'trattatisti del rinascimento' (titolo di paragrafo)
 Pag 243, riga 10 corretto 'un'altro' con 'un'altra'
+
+08/10/2024 correzione postuma eseguita dopo la consegna del file revisionato
+Pag 243, riga 22 eliminato doppia parentesi chiusa
+
 Pag 245, riga 27 corretto 'L'Humboldt' con 'l'Humboldt'
 Pag 248, riga 17 corretto un punto con una virgola
 Pag 251, nota 35, riga 11 corretto 'avversarli' con 'avversarii'
