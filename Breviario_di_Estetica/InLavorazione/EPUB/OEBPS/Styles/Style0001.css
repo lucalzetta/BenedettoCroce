@@ -30,6 +30,11 @@ padding : 0;
 .LLinfo {
 font-family : "Courier New";
 }
+.LLinfo-titolo {
+font-family : "Courier New";
+font-weight : bold;
+text-align : center;
+}
 .testo_centrato {
 text-align : center;
 }
@@ -42,6 +47,21 @@ font-style: italic;
 }
 .testo_destra {
 text-align : right;
+}
+p.testo_dialogo {
+margin : 0 0 0 1em;
+text-indent : -1em;
+}
+.testo_distanziato {
+padding-top: 2em;
+}
+.testo_frontespizio_autore {
+font-size : 120%;
+text-align : center;
+}
+.testo_frontespizio_titolo {
+font-size : 160%;
+ text-align : center;
 }
 .testo_indice {
 list-style-type:none;
@@ -56,6 +76,18 @@ list-style-type:none;
 }
 .testo_maiuscoletto {
 font-variant : small-caps;
+}
+.testo_no_virgolette {
+quotes: none;
+}
+.testo_nota {
+font-size : 90%;
+}
+.testo_piccolo {
+font-size : small;
+}
+.testo_tondo {
+font-style : normal;
 }
 
 /* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
