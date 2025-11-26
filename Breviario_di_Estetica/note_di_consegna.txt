@@ -1,0 +1,4 @@
+Alzetta Luca, lucalzetta@gmail.com
+Carico questo primo epub revisonato secondo le note di Marco Totolo, epubcheck mi da ancora 6 'bad usage', non gravi, un paio dovrebbero risolversi con i riferimenti necessari per la pubblicazione: copertina ecc., altri, relativi ai name spaces non ho tentato di correggerli per non generare confusione, non sono riuscito a trattenermi dall'eliminare dal foglio di stile le classi inutilizzate, lasciandone una che presumo servirà alla pubblicazione.
+
+sab 15 nov 2025, 20:47:31, CET
