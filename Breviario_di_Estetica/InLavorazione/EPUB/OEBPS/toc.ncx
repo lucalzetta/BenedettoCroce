@@ -49,35 +49,35 @@
     
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
-        <text>I. «Che cosa è l'arte»</text>
+        <text>I. «CHE COSA È L'ARTE»</text>
       </navLabel>
       <content src="Text/Section0007.xhtml"/>
     </navPoint>
 
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
-        <text>II. Pregiudizî Intorno all'arte</text>
+        <text>II. PREGIUDIZÎ INTORNO ALL'ARTE</text>
       </navLabel>
       <content src="Text/Section0008.xhtml"/>
     </navPoint>
     
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
-        <text>III. Il posto dell'arte nello spirito e nella società umana</text>
+        <text>III. IL POSTO DELL'ARTE NELLO SPIRITO E NELLA SOCIETÀ UMANA</text>
       </navLabel>
       <content src="Text/Section0009.xhtml"/>
     </navPoint>
 
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
-        <text>IV. La critica e la storia  dell'arte</text>
+        <text>IV. LA CRITICA E LA STORIA  DELL'ARTE</text>
       </navLabel>
       <content src="Text/Section0010.xhtml"/>
     </navPoint>
 
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
-        <text>Inizio, periodi e carattere della storia dell'Estetica</text>
+        <text>INIZIO, PERIODI E CARATTERE DELLA STORIA DELL'ESTETICA</text>
       </navLabel>
       <content src="Text/Section0011.xhtml"/>
       <!--Titolo di secondo livello-->    
@@ -106,28 +106,28 @@
     <!--Titolo di primo livello-->    
     <navPoint id="navPoint-14" playOrder="14">
       <navLabel>
-        <text>Il carattere di totalità dell'espressione artistica</text>
+        <text>IL CARATTERE DI TOTALITÀ DELL'ESPRESSIONE ARTISTICA</text>
       </navLabel>
       <content src="Text/Section0012.xhtml"/>
     </navPoint>
 
     <navPoint id="navPoint-15" playOrder="15">
       <navLabel>
-        <text>Appendice - Le due scienze mondane: l'Estetica e l'Economica:</text>
+        <text>APPENDICE - LE DUE SCIENZE MONDANE: L'ESTETICA E L'ECONOMICA:</text>
       </navLabel>
       <content src="Text/Section0013.xhtml"/>
     </navPoint>
 
     <navPoint id="navPoint-16" playOrder="16">
       <navLabel>
-        <text>I. Spirito e senso</text>
+        <text>I. SPIRITO E SENSO</text>
       </navLabel>
       <content src="Text/Section0014.xhtml"/>
     </navPoint>
 
     <navPoint id="navPoint-17" playOrder="17">
       <navLabel>
-        <text>II. Spirito e natura</text>
+        <text>II. SPIRITO E NATURA</text>
       </navLabel>
       <content src="Text/Section0015.xhtml"/>
     </navPoint>
@@ -136,7 +136,7 @@
       <navLabel>
         <text>NOTE</text>
       </navLabel>
-      <content src="Text/Note.xhtml"/>
+      <content src="Text/Section0016.xhtml"/>
     </navPoint>
     
   </navMap>
